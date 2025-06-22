@@ -118,5 +118,6 @@ nav ul li{
     }
     .hero-1{
         flex-direction: column-reverse;
+        align-items: center;
     }
     }
